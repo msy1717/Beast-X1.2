@@ -287,7 +287,7 @@ async def update_restart_msg(chat_id, msg_id):
 goju = bot.get_me()
 userUName = goju.username
 userFname = goju.first_name
-
+userid = goju.id
 
 
 try:
