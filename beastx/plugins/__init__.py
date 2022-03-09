@@ -1,7 +1,7 @@
 from beastx import userUName,userFname,userid
 
 from userbot import LOGS
-
+from userbot.events import register
 
 def __list_all_modules():
     import glob
