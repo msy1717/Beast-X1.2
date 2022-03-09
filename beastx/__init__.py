@@ -284,6 +284,12 @@ async def update_restart_msg(chat_id, msg_id):
     await bot.edit_message(chat_id, msg_id, message)
     return True
 
+goju = bot.get_me()
+userUName = goju.username
+userFname = goju.first_name
+
+
+
 try:
     from userbot.modules.sql_helper.globals import delgvar, gvarstatus
 
