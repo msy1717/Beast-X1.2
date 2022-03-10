@@ -1,14 +1,6 @@
-# Start Making Soon
+# Beast-X [v1.2]
 
-
-> used requirements in this repo
+> Features:
 > 
-pytz \
-requests \
-sqlalchemy<=1.3.23\
-telegraph\
-telethon\
-telethon-session-sqlalchemy\
-telethon-tgcrypto\
-heroku3\
-Pillow
+>~ Install Your Own Plug-ins and Modules .\
+~ Safe to use 
