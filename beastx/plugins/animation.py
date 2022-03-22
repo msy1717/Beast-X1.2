@@ -26,5 +26,5 @@ hack_chr = [
     "`Hacking... 96.03%\n████████████████████████▒ `",
     "`Hacking... 97.25%\n█████████ HACKED ███████████ `",
     "`Targeted Account Hacked ...`",
-    "`Importing Account Details ...`" # End with send a txt file with text "You idiot 🤣"
+    "`Importing Account Details as file ...`" # End with send a txt file "/resources/hack.txt" and caption "Account Data Imported Here !"
 ]
